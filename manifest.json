@@ -1,0 +1,29 @@
+{
+  "version": "2.6",
+  "manifest_version": 2,
+  "name": "camo theme",
+  "theme": {
+    "images" : {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_overlay": "images/theme_frame_overlay.png",
+      "theme_ntp_background": "images/accubits_dark_theme.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "colors": {
+      "bookmark_text": [ 209, 209, 209 ],
+      "button_background": [ 48, 48, 48, 1 ],
+      "frame": [ 66, 116, 201 ],
+      "ntp_text": [ 209, 209, 209 ],
+      "tab_background_text": [ 209, 209, 209 ],
+      "tab_text": [ 255, 255, 255 ],
+      "toolbar": [ 54, 54, 54 ]
+   },
+    "tints" : {
+      "buttons": [ 0, 0, 0.86 ]
+    },
+    "properties" : {
+   
+    }
+  }
+}
